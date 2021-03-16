@@ -21,7 +21,13 @@ Models are created to store data and api routes are used to access information. 
 
 ## Usage
 
-![image of code and integrated terminal](./assets/screenshot1.jpg) The above image shows an example of what can be seen using Postman
+![image of postman example for products](./assets/screenshot1.jpg)
+The above image shows an example of what can be seen using Postman
+The image below shows the links between each model
+
+![image of code of models](./assets/screenshot2.jpg)
+
+[link to example video](https://drive.google.com/file/d/1V5PT_dW-eKXm5xUeZFXKAahoy3R3GRhT/view?usp=sharing)
 
 ## License
 
